@@ -2,6 +2,6 @@ rembg
 Pillow==9.1.0
 gunicorn==20.1.0
 Flask==2.2.5
-Werkzeug==2.3.7
+Werkzeug==2.2.3
 
 
